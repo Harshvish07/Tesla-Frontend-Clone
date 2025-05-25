@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
 
 # Editor directories and files
 .vscode/*
@@ -18,7 +19,31 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
-*.ntvs*
+.ntvs
 *.njsproj
 *.sln
 *.sw?
+.env
+kqk-fpbh-duf
+
+# Dependencies
+node_modules
+package-lock.json
+
+# Build files
+dist
+dist-ssr
+
+# Environment variables
+node_modules/
+node_modules
+dist
+dist-ssr
+*.local
+.env
+
+
+
+
+
+
