@@ -138,6 +138,7 @@ const slider2 = [
 
 function Home() {
   return (
+    // new
     <div className=" bg-white pb-32 ">
       {/* <Card /> */}
       <div className="w-full h-200 items-stretch">
